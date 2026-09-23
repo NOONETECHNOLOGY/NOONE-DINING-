@@ -18,7 +18,7 @@ export default function Story() {
             A Table Worth Remembering
           </h2>
           <p style={{ fontSize: "14px", color: "#888", lineHeight: "1.7", fontWeight: "300" }}>
-            Founded in the heart of the culinary district, L'ÉTOILE redefines luxury dining through an uncompromising commitment to pristine seasonality, French technique, and sensory storytelling.
+            Founded in the heart of the culinary district, NOONE DINING redefines luxury dining through an uncompromising commitment to pristine seasonality, French technique, and sensory storytelling.
           </p>
         </div>
 

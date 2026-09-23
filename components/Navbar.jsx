@@ -20,7 +20,7 @@ export default function Navbar({ onOpenReservation }) {
         justifyContent: 'space-between'
       }}>
         <a href="#" style={{ fontFamily: 'serif', fontSize: '22px', letterSpacing: '0.3em', color: '#f4f4f0', textDecoration: 'none' }}>
-          L'ÉTOILE
+          NOONE DINING
         </a>
         
         <nav style={{ display: 'flex', gap: '36px', alignItems: 'center' }} className="hidden lg:flex">

@@ -36,7 +36,7 @@ export default function Hero({ onOpenReservation }) {
         </p>
         
         <h1 style={{ fontFamily: 'serif', fontSize: 'clamp(50px, 8vw, 85px)', letterSpacing: '0.15em', color: '#f4f4f0', fontWeight: '300', margin: 0 }}>
-          L'ÉTOILE
+          NOONE DINING
         </h1>
         
         <p style={{ fontFamily: 'serif', fontStyle: 'italic', fontSize: 'clamp(16px, 2vw, 20px)', color: '#ccc', margin: '0 0 10px 0' }}>

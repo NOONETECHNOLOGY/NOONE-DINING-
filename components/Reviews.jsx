@@ -1,7 +1,7 @@
 export default function Reviews() {
   const reviews = [
     {
-      quote: "L'ÉTOILE delivers an absolute masterclass in modern French gastronomy. Every single course is a revelation.",
+     quote: "NOONE DINING delivers an absolute masterclass in modern French gastronomy. Every single course is a revelation.",
       source: "The Michelin Guide"
     },
     {
