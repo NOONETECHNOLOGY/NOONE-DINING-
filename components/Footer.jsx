@@ -17,7 +17,7 @@ export default function Footer({ onOpenReservation }) {
         {/* Column 1: Brand & Tagline */}
         <div style={{ display: 'flex', flexDirection: 'column', gap: '16px' }}>
           <h3 style={{ fontFamily: 'serif', fontSize: '24px', letterSpacing: '0.25em', margin: 0, color: '#f4f4f0' }}>
-            L'ÉTOILE
+            NOONE DINING
           </h3>
           <p style={{ fontSize: '13px', color: '#888', lineHeight: '1.7', fontWeight: '300', margin: 0, maxWidth: '320px' }}>
             An uncompromising journey through contemporary French gastronomy, fine wines, and timeless elegance.
@@ -60,7 +60,7 @@ export default function Footer({ onOpenReservation }) {
         letterSpacing: '0.2em',
         color: '#555'
       }}>
-        © 2026 L'ÉTOILE RESTAURANT. ALL RIGHTS RESERVED.
+        © 2026 NOONE DINING.ALL RIGHT RESERVED.
       </div>
     </footer>
   );

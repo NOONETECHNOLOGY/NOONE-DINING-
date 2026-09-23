@@ -1,7 +1,7 @@
 import './globals.css'
 
 export const metadata = {
-  title: "L'ÉTOILE | Luxury Dining",
+  title: "NOONE DINING",
   description: "Michelin-Starred Contemporary Dining",
 }
 
